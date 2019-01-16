@@ -2,3 +2,6 @@ Ham
 Cheese
 Mayo
 Tomato Sauce
+Mushrooms
+Chicken
+Salami
