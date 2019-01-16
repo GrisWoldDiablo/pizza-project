@@ -3,5 +3,6 @@ Cheese
 Mayo
 Tomato Sauce
 Shiitake
+Eggplant
 Chicken
 Salami
